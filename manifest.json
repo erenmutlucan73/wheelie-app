@@ -1,0 +1,9 @@
+{
+  "name": "Tek Teker Eğim İzleyici",
+  "short_name": "Eğim İzleyici",
+  "start_url": "./Untitled-2.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": []
+}
